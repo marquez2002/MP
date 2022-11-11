@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "pr303.h": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "micro2.h": "c"
+    }
+}
